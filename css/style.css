@@ -418,16 +418,16 @@ body::before {
 }
 
 @media screen and (min-width:830px) {
-   #nav-drawer {
-     display:none;
-   }
- }
+  #nav-drawer {
+    display:none;
+  }
+}
 
- @media screen and (max-width:830px) {
-   .open {
-     display:none;
-   }
- }
+@media screen and (max-width:830px) {
+  .open {
+    display:none;
+  }
+}
 
 
 @media screen and (max-width: 1160px) and (min-width: 830px) {
